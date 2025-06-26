@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TechniciansAssistant</string>
+    <string name="main_header">The Technicians Assistant</string>
+    <string name="Zeus_calculator_button">Zeus Calculator(cnc)</string>
+    <string name="electrical_circuit_simulator">Electrical Circuit Simulator</string>
+    <string name="electronic_circuit_simulator">Electronic Circuit Simulator</string>
+    <string name="pneumatic_circuit_simulator">Pneumatic Circuit Simulator</string>
+</resources>
