@@ -33,3 +33,6 @@ class MainActivity : AppCompatActivity() {
     }
 
 }
+class ZeusCalculator{
+    external fun add()
+}
