@@ -11,4 +11,9 @@
     <string name="diameter_question">Please enter the diameter:</string>
     <string name="centerpointx_question">What is the X coordinate of the centerpoint?</string>
     <string name="centpointy_question">What is the Y coordinate of the centerpoint?</string>
+    <string name="radius_or_diameter_dropdown">Choose one:</string>
+    <string-array name="r_and_d_dropdown_options">
+        <item>radius</item>
+        <item>diameter</item>
+    </string-array>
 </resources>
